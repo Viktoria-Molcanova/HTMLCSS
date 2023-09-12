@@ -44,7 +44,7 @@ line-height: normal;
 }
 
 img {
-	margin-left:  3px;
+
 	
 }
 
@@ -295,6 +295,10 @@ margin-bottom: 25px;
 	margin-right: 120px;
 	margin-left:  100px;
 	margin-bottom: 50px;
+	display: flex;
+	gap: 6px;
+	justify-content: space-evenly;
+    	align-items: center;
 }
 .read{
 	margin-top: 25px;
