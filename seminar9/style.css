@@ -913,7 +913,8 @@ display: inline;
 } 
 
 
-/* @media (max-width: 375px){   
+
+@media (max-width: 375px){   
   body {
     overflow-x: hidden;
     
@@ -1066,4 +1067,4 @@ height: 550px;
   }
   }
 
- */
+ 
